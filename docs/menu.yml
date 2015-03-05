@@ -8,3 +8,9 @@ menu:
     children:
       Download: preface/download
       License: preface/license
+
+  - name: Getting Started
+    icon: fa fa-puzzle-piece
+    children:
+      Installation: getting-started/installation
+      Configuration: getting-started/configuration

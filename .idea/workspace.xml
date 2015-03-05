@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5666a01-603f-43d2-b720-d544d33c5a49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/Traits/CascadingTrait.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/Console/ConfigCacheCommand.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/Traits/ConfigProviderTrait.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/ConfigServiceProvider.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/FileLoader.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/Bootstrap/LoadConfiguration.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/LoaderInterface.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/Traits/LoadingTrait.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/Contracts/PackageRepository.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/Publisher.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/Providers/PublisherServiceProvider.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/Repository.php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/checkstyle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/clover.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/crap4j.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/coverage/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/jdepend.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/junit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/menu.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/phploc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/pmd-cpd.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/logs/pmd.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/getting-started/configuration.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/getting-started/installation.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/menu.yml" afterPath="$PROJECT_DIR$/docs/menu.yml" />
     </list>
     <ignored path="docs-test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,10 +31,36 @@
       <file leaf-file-name="menu.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/menu.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07984032" vertical-offset="0" max-vertical-offset="1002">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.49306625" vertical-offset="0" max-vertical-offset="649">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="installation.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/getting-started/installation.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="860">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="license.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/preface/license.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="620">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -110,7 +116,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -126,7 +132,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -159,6 +164,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="preface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getting-started" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -169,6 +210,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,8 +218,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/build" />
       <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/build" />
     </key>
   </component>
   <component name="RunManager">
@@ -220,7 +262,7 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976654" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976654" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34338522" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34338522" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15284091" sideWeight="0.26361868" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15264294" sideWeight="0.73638135" order="9" side_tool="false" content_ui="tabs" x="3569" y="200" width="235" height="573" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -293,10 +335,32 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/preface/license.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/getting-started/installation.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="860">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/menu.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07984032" vertical-offset="0" max-vertical-offset="1002">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.49306625" vertical-offset="0" max-vertical-offset="649">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
