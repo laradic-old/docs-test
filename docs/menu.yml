@@ -24,3 +24,17 @@ menu:
       Macro - domacro: directives/macro
       Debug - breakpoint: asdf
       Markdown: asdf
+
+  - name: Miscellaneous
+    icon: fa fa-puzzle-piece
+    children:
+      API Documentation: miscellaneous/api
+      Code coverage: miscellaneous/coverage
+      CI: miscellaneous/ci
+      Contributing: miscellaneous/contributing
+
+  - name: Links
+    icon: fa fa-link
+    children:
+      Github: https://github.com/robinradic/blade-extensions
+      Packagist: http://packagist.org/radic/blade-extensions
