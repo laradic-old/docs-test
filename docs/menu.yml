@@ -14,3 +14,13 @@ menu:
     children:
       Installation: getting-started/installation
       Configuration: getting-started/configuration
+
+  - name: Directives
+    icon: fa fa-puzzle-piece
+    children:
+      Foreach - break - continue: directives/foreach
+      Set - Unset: directives/set
+      Partial - block - render: directives/partial
+      Macro - domacro: directives/macro
+      Debug - breakpoint: asdf
+      Markdown: asdf
