@@ -18,7 +18,7 @@ toc:
 [![Goto API Documentation](https://img.shields.io/badge/goto-api--docs-orange.svg?style=flat-square)](http://robin.radic.nl/blade-extensions/api)
 [![Goto Repository](http://img.shields.io/badge/goto-repo-orange.svg?style=flat-square)](https://github.com/robinradic/blade-extensions)
 
-**Laravel 5** package providing additional Blade functionality.
+**Laravel 5** package providing additional Blade functionality.!2
 
 <!---+ row +-->
 <!---+ col-md-6 +-->
@@ -30,6 +30,7 @@ toc:
 - **@macro** Defining and running macros
 - **@debug** Debugging values in views
 - **BladeViewTestingTrait** enables all assert methods from your test class in your view as directives. `@assertTrue($hasIt)..`
+- 
 <!---+ /col-md-6 +-->
 <!---+ /row +-->
 
