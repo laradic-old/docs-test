@@ -22,18 +22,14 @@ toc:
 
 <!---+ row +-->
 <!---+ col-md-6 +-->
-
 - **@set @unset** Setting and unsetting of values
 - **@foreach @break @continue** Loop data and extras
 - **@partial @block @render** Creating view partials and blocks. Nest them, extend them, render them.
-
 <!---+ /col-md-6 +-->
 <!---+ col-md-6 +-->
-
 - **@macro** Defining and running macros
 - **@debug** Debugging values in views
 - **BladeViewTestingTrait** enables all assert methods from your test class in your view as directives. `@assertTrue($hasIt)..`
-
 <!---+ /col-md-6 +-->
 <!---+ /row +-->
 
